@@ -54,7 +54,7 @@
 - **Dashboard con Indicadores (KPIs):** Conteo en tiempo real de *Total de libros*, *Stock total*, *Disponibles* y *Agotados*.
 - **Búsqueda y Filtrado Multicriterio:** Búsqueda por título, autor o editorial combinada con filtros por **Estado** y **Categoría**.
 - **Ordenamiento Dinámico:** Columnas interactivas para ordenar por Título, Autor, Precio, Stock o Año de publicación.
-- **Alertas de Inventario:** Indicador visual automático (`⚠️`) cuando un ejemplar cuenta con pocas unidades disponibles.
+- **Alertas de Inventario:** Indicador visual automático (``) cuando un ejemplar cuenta con pocas unidades disponibles.
 - **Gestión Completa (CRUD):** Creación, lectura, edición y eliminación con validación de datos en cliente y servidor.
 
 ---
@@ -164,7 +164,7 @@ crud-libros/
 
 Si este proyecto te ayudó en tus estudios o te sirvió como base para tus desarrollos:
 
-- **Regálale una estrella (`⭐ Star`)** en la esquina superior derecha para que más estudiantes puedan encontrarlo.
+- **Regálale una estrella (` Star`)** en la esquina superior derecha para que más estudiantes puedan encontrarlo.
 - **Haz un `Fork`** si deseas adaptarlo y construir tus propias funcionalidades sobre esta base.
 - **Abre un `Issue`** si tienes dudas o sugerencias de mejora.
 
