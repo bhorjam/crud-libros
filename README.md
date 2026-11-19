@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📚 Tu Libro a tu Alcance — Sistema CRUD de Librería
+# Tu Libro a tu Alcance — Sistema CRUD de Librería
 
 **Aplicación web moderna para la gestión de catálogo e inventario desarrollada con PHP (MVC), PDO y MySQL.**
 
@@ -18,7 +18,7 @@
 
 <div align="center">
 
-## 🎯 ¿Qué aprenderás con este proyecto?
+##  ¿Qué aprenderás con este proyecto?
 
 </div>
 
@@ -31,14 +31,14 @@
 
 <div align="center">
 
-## 📸 Vistas Previas del Sistema
+##  Vistas Previas del Sistema
 
 *Las siguientes capturas son ilustrativas y emplean registros ficticios de prueba.*
 
-### 📊 Panel Principal, Métricas y Catálogo
+###  Panel Principal, Métricas y Catálogo
 ![Panel Principal y Catálogo](capturas/cap1.png)
 
-### ✍️ Formulario de Registro y Edición
+###  Formulario de Registro y Edición
 ![Formulario de Registro](capturas/cap2.png)
 
 </div>
@@ -47,7 +47,7 @@
 
 <div align="center">
 
-## ✨ Funcionalidades Clave
+##  Funcionalidades Clave
 
 </div>
 
@@ -61,7 +61,7 @@
 
 <div align="center">
 
-## 🔌 Endpoints de la API (`api/libros.php`)
+##  Endpoints de la API (`api/libros.php`)
 
 </div>
 
@@ -76,7 +76,7 @@
 
 <div align="center">
 
-## 📁 Estructura del Proyecto
+##  Estructura del Proyecto
 
 </div>
 
@@ -111,7 +111,7 @@ crud-libros/
 
 <div align="center">
 
-## 🚀 Guía de Instalación Rápida
+##  Guía de Instalación Rápida
 
 </div>
 
@@ -145,7 +145,7 @@ crud-libros/
 
 <div align="center">
 
-## 💡 Ideas Breves para Practicar
+##  Ideas Breves para Practicar
 
 *Si descargaste este repositorio para estudiar, intenta implementar estas mejoras por tu cuenta:*
 
@@ -160,7 +160,7 @@ crud-libros/
 
 <div align="center">
 
-## ⭐ ¡Apoya este Repositorio!
+##  ¡Apoya este Repositorio!
 
 Si este proyecto te ayudó en tus estudios o te sirvió como base para tus desarrollos:
 
