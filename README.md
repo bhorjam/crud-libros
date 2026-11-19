@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Tu Libro a tu Alcance — Sistema CRUD de Librería
+# 📚 Tu Libro a tu Alcance — Sistema CRUD de Librería
 
 **Aplicación web moderna para la gestión de catálogo e inventario desarrollada con PHP (MVC), PDO y MySQL.**
 
@@ -18,7 +18,7 @@
 
 <div align="center">
 
-##  ¿Qué aprenderás con este proyecto?
+## 🎯 ¿Qué aprenderás con este proyecto?
 
 </div>
 
@@ -35,14 +35,11 @@
 
 *Las siguientes capturas son ilustrativas y emplean registros ficticios de prueba.*
 
-###  Panel Principal y Métricas de Inventario
-![Dashboard Principal](docs/images/dashboard-libreria.png)
+### 📊 Panel Principal, Métricas y Catálogo
+![Panel Principal y Catálogo](capturas/cap1.png)
 
-###  Catálogo Interactivo y Control de Stock
-![Catálogo de Libros](docs/images/catalogo-libros.png)
-
-###  Formulario de Registro y Edición
-![Formulario de Registro](docs/images/formulario-registro.png)
+### ✍️ Formulario de Registro y Edición
+![Formulario de Registro](capturas/cap2.png)
 
 </div>
 
@@ -50,7 +47,7 @@
 
 <div align="center">
 
-##  Funcionalidades Clave
+## ✨ Funcionalidades Clave
 
 </div>
 
@@ -64,7 +61,7 @@
 
 <div align="center">
 
-##  Endpoints de la API (`api/libros.php`)
+## 🔌 Endpoints de la API (`api/libros.php`)
 
 </div>
 
@@ -79,7 +76,7 @@
 
 <div align="center">
 
-##  Estructura del Proyecto
+## 📁 Estructura del Proyecto
 
 </div>
 
@@ -94,17 +91,19 @@ crud-libros/
 │   ├── Support/                # Clases auxiliares (Config.php, Database.php, helpers.php)
 │   ├── Views/                  # Plantillas HTML modularizadas (layout, partials, libros/)
 │   └── autoload.php            # Autocargador automático de clases PHP
+├── capturas/
+│   ├── cap1.png                # Vista del panel principal y catálogo
+│   └── cap2.png                # Vista del formulario de registro
 ├── config/
 │   ├── app.php                 # Parámetros generales y rutas base
 │   └── database.php            # Credenciales de conexión a MySQL
-├── docs/
-│   └── images/                 # Capturas de pantalla incluidas en la documentación
 ├── public/
 │   └── css/
 │       └── app.css             # Hojas de estilo personalizadas y diseño responsivo
 ├── sql/
 │   └── libreria.sql            # Script SQL listo para importar en phpMyAdmin
 ├── index.php                   # Punto de entrada único (Front Controller)
+├── LICENSE                     # Licencia MIT
 └── README.md                   # Documentación del proyecto
 ```
 
@@ -112,7 +111,7 @@ crud-libros/
 
 <div align="center">
 
-##  Guía de Instalación Rápida
+## 🚀 Guía de Instalación Rápida
 
 </div>
 
@@ -146,7 +145,7 @@ crud-libros/
 
 <div align="center">
 
-##  Ideas Breves para Practicar
+## 💡 Ideas Breves para Practicar
 
 *Si descargaste este repositorio para estudiar, intenta implementar estas mejoras por tu cuenta:*
 
@@ -161,7 +160,7 @@ crud-libros/
 
 <div align="center">
 
-##  ¡Apoya este Repositorio!
+## ⭐ ¡Apoya este Repositorio!
 
 Si este proyecto te ayudó en tus estudios o te sirvió como base para tus desarrollos:
 
